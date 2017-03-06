@@ -1,0 +1,60 @@
+.first-container {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.headerimg {
+	width: 100%;
+}
+
+.two-col-heading {
+	font-size: 35px;
+}
+
+.col-icon {
+	font-size: 70px;
+}
+
+.aim-btn:first-of-type {
+	margin-top: 25px;
+}
+
+.fronttitle {
+	text-align: center;
+}
+
+.well > h3 {
+	margin-top: 0;
+	font-size: 22px;
+}
+
+h1.fronttitle {
+	font-size: 33px;
+}
+
+h1.fronttitle small {
+	font-size: 21px;
+}
+
+h2.fronttitle {
+	font-size: 20px;
+}
+
+h3.date-text {
+    text-align: center;
+    font-size: 29px;
+}
+
+p.date-text {
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.well p {
+	font-size: 14px;
+}
+
+.kanji {
+	font-size: 20px;
+}
